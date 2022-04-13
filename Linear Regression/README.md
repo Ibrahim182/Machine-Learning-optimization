@@ -5,6 +5,6 @@
 - How to get minimum values of equation
 - How to deal with data and you can't get the minimum values of weights
 - linear equation
-- cost function for linear regression
+- cost function for linear regression (mean absolute error)
 - dreivative of cost function with weights to updata the weights
 - calculate the mean absolute error
