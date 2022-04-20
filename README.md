@@ -1,6 +1,6 @@
 # Machine Learning Optimization
 --------------------------------
 
-### You can find now :
+### You can find :
 - Linear Regression
 - Binary Classification
